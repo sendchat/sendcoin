@@ -1,2 +1,2 @@
-debian/manpages/novacoind.1
-debian/manpages/novacoin.conf.5
+debian/manpages/sendcoind.1
+debian/manpages/sendcoin.conf.5

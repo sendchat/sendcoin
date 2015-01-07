@@ -1,2 +1,2 @@
-debian/bin/novacoind usr/bin
-src/novacoind usr/lib/novacoin
+debian/bin/sendcoind usr/bin
+src/sendcoind usr/lib/sendcoin

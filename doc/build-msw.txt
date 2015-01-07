@@ -7,7 +7,7 @@ cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP
 software written by Thomas Bernard.
 
 
-See readme-qt.rst for instructions on building BlackCoin QT, the
+See readme-qt.rst for instructions on building SendCoin QT, the
 graphical user interface.
 
 WINDOWS BUILD NOTES
@@ -76,9 +76,9 @@ make -f Makefile.mingw
 mkdir miniupnpc
 cp *.h miniupnpc/
 
-BlackCoin
+SendCoin
 -------
 DOS prompt:
-cd \blackcoin\src
+cd \sendcoin\src
 mingw32-make -f makefile.mingw
-strip blackcoind.exe
+strip sendcoind.exe
